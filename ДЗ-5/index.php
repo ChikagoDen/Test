@@ -20,7 +20,6 @@
 <?php
 class CircleAreaLib
 {
-
  
    public function getCircleArea(int $diagonal)
    {
