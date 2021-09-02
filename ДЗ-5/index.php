@@ -38,7 +38,6 @@ class SquareAreaLib
        return $area;
    }
 }
-
 // Имеющиеся интерфейсы:
 
 interface ISquare
