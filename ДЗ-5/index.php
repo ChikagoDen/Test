@@ -29,7 +29,6 @@ class CircleAreaLib
        return $area;
    }
 }
-
 class SquareAreaLib
 {
    public function getSquareArea(int $diagonal)
