@@ -1,0 +1,19 @@
+img{
+    width:120px;
+     height:90px;
+
+    }
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
+a:hover{
+    text-decoration: none;
+    color: blue;
+}
